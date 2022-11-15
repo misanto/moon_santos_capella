@@ -83,18 +83,18 @@ p{
 
 }
 
-.container{
-    flex-direction: row;
+.flex-container-luna{
+    flex-direction: flex-start;
 }
-.Box-l1{
+.l1{
     background-image: url("../img/moon1.jpg");
     
 }
 
-.Box-l2{
+.l2{
     background-image: url("../img/moon2.jpg");
 }
 
-.Box-l3{
+.l3{
     background-image: url("../img/moon3.jpg");
 }
