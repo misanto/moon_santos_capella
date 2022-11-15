@@ -31,6 +31,9 @@ a{
    background-color: #00ccff;
 }
 
+body {
+    background-image: url("../img/moon.jpg");
+}
 /* movil */
 
 @media screen and (max-width: 575px) {
