@@ -50,3 +50,35 @@ h1{
 p{
     text-align: center;
 }
+
+.btn-arrow {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px 57px 24px 40px;
+    gap: 10px;
+    
+    left: 9.58%;
+    right: 75.76%;
+    top: 64.94%;
+    bottom: 28.61%;
+    
+    border: 1px solid #000000;
+    border-radius: 40px;
+}
+
+.boton{
+    width: 129px;
+    height: 18px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 18px;
+    
+    /* identical to box height, or 82% */
+    
+    color: #000000;
+
+}
