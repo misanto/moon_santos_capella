@@ -39,4 +39,14 @@ body {
     background-color: rgba(77, 185, 228);
     margin-top: 36%;
     background-position: top center;
+    margin: 500px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
