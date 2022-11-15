@@ -28,5 +28,5 @@ a{
 
 .menu a.active,
 .menu a:hover {
-    color: #00ccff;
+   background-color: #00ccff;
 }
