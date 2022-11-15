@@ -25,3 +25,8 @@ a{
   
 }
 
+
+.menu a.active,
+.menu a:hover {
+    color: #00ccff;
+}
