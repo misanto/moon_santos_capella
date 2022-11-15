@@ -34,12 +34,11 @@ a{
 body {
     background-image: url("../img/moon.jpg");
 }
-/* movil */
-
-@media screen and (max-width: 575px) {
-    a {
-        font-size: 20px;
-    }
-
-   
+.blue-container {
+    width: 95%;
+    height: 76px;
+    background-color: rgba(77, 185, 228);
+    margin-top: 36%;
+    float: right;
+    background-position: top center;
 }
