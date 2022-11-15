@@ -35,8 +35,7 @@ body {
     background-image: url("../img/moon.jpg");
 }
 .blue-container{
-    width: 95%;
-    height: 76px;
+    position: absolute;
     background-color: rgba(77, 185, 228);
     margin-top: 36%;
     background-position: top center;
