@@ -2,14 +2,13 @@
 
 header{
     background-color: blue;
-    padding: 40px;
     height: 100px;
   
 }
 
 .menu{
     text-align: center;
-    padding: 0 15px;
+    padding: 0 512px;
 }
 
 a{
