@@ -83,6 +83,9 @@ p{
 
 }
 
+.imatges{
+    flex-direction: row;
+}
 .Box-l1{
     background-image: url("../img/moon1.jpg");
     
