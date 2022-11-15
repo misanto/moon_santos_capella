@@ -83,14 +83,15 @@ p{
 
 }
 
-.box-l1{
+.Box-l1{
     background-image: url("../img/moon1.jpg");
+    
 }
 
-.box-l2{
+.Box-l2{
     background-image: url("../img/moon2.jpg");
 }
 
-.box-l3{
+.Box-l3{
     background-image: url("../img/moon3.jpg");
 }
