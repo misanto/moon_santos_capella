@@ -84,7 +84,7 @@ p{
 }
 
 .flex-container-luna{
-    flex-direction: flex-start;
+    align-items: flex-start;
 }
 .l1{
     background-image: url("../img/moon1.jpg");
