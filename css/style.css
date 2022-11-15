@@ -82,3 +82,15 @@ p{
     color: #000000;
 
 }
+
+.box-l1{
+    background-image: url("../img/moon1.jpg");
+}
+
+.box-l2{
+    background-image: url("../img/moon2.jpg");
+}
+
+.box-l3{
+    background-image: url("../img/moon3.jpg");
+}
