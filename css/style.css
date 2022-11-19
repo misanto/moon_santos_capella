@@ -36,7 +36,8 @@ body {
 }
 .blue-container{
     position: absolute;
-    background-color: rgba(77, 185, 228);
+    border-radius: 20px;
+    background-color: rgba(77, 185, 228, 0.712);
     margin-top: 36%;
     background-position: top center;
     margin: 500px;
